@@ -1,0 +1,11 @@
+altair
+pandas
+streamlit
+dnspython
+networkx
+matplotlib
+bokeh=2.2.2
+plotly
+bs4
+lxml
+html5lib
