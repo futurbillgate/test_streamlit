@@ -4,7 +4,7 @@ streamlit
 dnspython
 networkx
 matplotlib
-bokeh=2.2.2
+bokeh==2.2.2
 plotly
 bs4
 lxml
